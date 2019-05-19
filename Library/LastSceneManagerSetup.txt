@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/prefab/newScene1.1.unity
+- path: Assets/Dossier Jeu/newScene1.1.unity
   isLoaded: 1
   isActive: 1
